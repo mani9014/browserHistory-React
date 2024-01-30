@@ -1,0 +1,27 @@
+.app-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  list-style-type: none;
+}
+.time-style {
+  font-size: 15px;
+  color: #475569;
+}
+.image-style {
+  height: 30px;
+  width: 30px;
+}
+title {
+  font-size: 20px;
+  color: #475569;
+}
+.domain-name {
+  font-size: 15px;
+  color: #64748b;
+}
+.delete-icon {
+  height: 40px;
+  width: 40px;
+}
